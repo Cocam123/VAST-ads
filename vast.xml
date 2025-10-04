@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0">
+    <Ad id="ad1" sequence="1">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Test Ad 1</AdTitle>
+            <Description>This is a test ad video 1.</Description>
+            <Impression>http://example.com/impression1</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/track/start1</Tracking>
+                            <Tracking event="complete">http://example.com/track/complete1</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                                http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="ad2" sequence="2">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Test Ad 2</AdTitle>
+            <Description>This is a test ad video 2.</Description>
+            <Impression>http://example.com/impression2</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/track/start2</Tracking>
+                            <Tracking event="complete">http://example.com/track/complete2</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                                http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="ad3" sequence="3">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Test Ad 3</AdTitle>
+            <Description>This is a test ad video 3.</Description>
+            <Impression>http://example.com/impression3</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/track/start3</Tracking>
+                            <Tracking event="complete">http://example.com/track/complete3</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                                http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="ad4" sequence="4">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Test Ad 4</AdTitle>
+            <Description>This is a test ad video 4.</Description>
+            <Impression>http://example.com/impression4</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/track/start4</Tracking>
+                            <Tracking event="complete">http://example.com/track/complete4</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                                http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="ad5" sequence="5">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Test Ad 5</AdTitle>
+            <Description>This is a test ad video 5.</Description>
+            <Impression>http://example.com/impression5</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/track/start5</Tracking>
+                            <Tracking event="complete">http://example.com/track/complete5</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                                http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="ad6" sequence="6">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Test Ad 6</AdTitle>
+            <Description>This is a test ad video 6.</Description>
+            <Impression>http://example.com/impression6</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/track/start6</Tracking>
+                            <Tracking event="complete">http://example.com/track/complete6</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                                http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="ad7" sequence="7">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Test Ad 7</AdTitle>
+            <Description>This is a test ad video 7.</Description>
+            <Impression>http://example.com/impression7</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/track/start7</Tracking>
+                            <Tracking event="complete">http://example.com/track/complete7</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                                http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="ad8" sequence="8">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Test Ad 8</AdTitle>
+            <Description>This is a test ad video 8.</Description>
+            <Impression>http://example.com/impression8</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/track/start8</Tracking>
+                            <Tracking event="complete">http://example.com/track/complete8</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                                http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="ad9" sequence="9">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Test Ad 9</AdTitle>
+            <Description>This is a test ad video 9.</Description>
+            <Impression>http://example.com/impression9</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/track/start9</Tracking>
+                            <Tracking event="complete">http://example.com/track/complete9</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                                http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="ad10" sequence="10">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Test Ad 10</AdTitle>
+            <Description>This is a test ad video 10.</Description>
+            <Impression>http://example.com/impression10</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/track/start10</Tracking>
+                            <Tracking event="complete">http://example.com/track/complete10</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                                http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="ad11" sequence="11">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Test Ad 11</AdTitle>
+            <Description>This is a test ad video 11.</Description>
+            <Impression>http://example.com/impression11</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/track/start11</Tracking>
+                            <Tracking event="complete">http://example.com/track/complete11</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                                http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="ad12" sequence="12">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Test Ad 12</AdTitle>
+            <Description>This is a test ad video 12.</Description>
+            <Impression>http://example.com/impression12</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/track/start12</Tracking>
+                            <Tracking event="complete">http://example.com/track/complete12</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                                http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="ad13" sequence="13">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Test Ad 13</AdTitle>
+            <Description>This is a test ad video 13.</Description>
+            <Impression>http://example.com/impression13</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/track/start13</Tracking>
+                            <Tracking event="complete">http://example.com/track/complete13</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                                http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="ad14" sequence="14">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Test Ad 14</AdTitle>
+            <Description>This is a test ad video 14.</Description>
+            <Impression>http://example.com/impression14</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/track/start14</Tracking>
+                            <Tracking event="complete">http://example.com/track/complete14</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                                https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="ad15" sequence="15">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Test Ad 15</AdTitle>
+            <Description>This is a test ad video 15.</Description>
+            <Impression>http://example.com/impression15</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/track/start15</Tracking>
+                            <Tracking event="complete">http://example.com/track/complete15</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                                https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file-small.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="ad16" sequence="16">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Test Ad 16</AdTitle>
+            <Description>This is a test ad video 16.</Description>
+            <Impression>http://example.com/impression16</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/track/start16</Tracking>
+                            <Tracking event="complete">http://example.com/track/complete16</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                                https://file-examples.com/wp-content/storage/2017/04/file_example_MP4_480_1_5MG.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="ad17" sequence="17">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Test Ad 17</AdTitle>
+            <Description>This is a test ad video 17.</Description>
+            <Impression>http://example.com/impression17</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/track/start17</Tracking>
+                            <Tracking event="complete">http://example.com/track/complete17</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                                https://file-examples.com/wp-content/storage/2017/04/file_example_MP4_640_3MG.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="ad18" sequence="18">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Test Ad 18</AdTitle>
+            <Description>This is a test ad video 18.</Description>
+            <Impression>http://example.com/impression18</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/track/start18</Tracking>
+                            <Tracking event="complete">http://example.com/track/complete18</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                                https://file-examples.com/wp-content/storage/2017/04/file_example_MP4_1280_10MG.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="ad19" sequence="19">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Test Ad 19</AdTitle>
+            <Description>This is a test ad video 19.</Description>
+            <Impression>http://example.com/impression19</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/track/start19</Tracking>
+                            <Tracking event="complete">http://example.com/track/complete19</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                                https://file-examples.com/wp-content/storage/2017/04/file_example_MP4_1920_18MG.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="ad20" sequence="20">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Test Ad 20</AdTitle>
+            <Description>This is a test ad video 20.</Description>
+            <Impression>http://example.com/impression20</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/track/start20</Tracking>
+                            <Tracking event="complete">http://example.com/track/complete20</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                                https://admein.io/api/stream?id=52dab5e4-0-480p
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="ad21" sequence="21">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Test Ad 21</AdTitle>
+            <Description>This is a test ad video 21.</Description>
+            <Impression>http://example.com/impression21</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/track/start21</Tracking>
+                            <Tracking event="complete">http://example.com/track/complete21</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                                https://bpkcscreatives.s3.eu-west-1.amazonaws.com/commercial-slate.png_30s.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
